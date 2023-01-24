@@ -12,7 +12,7 @@
 
 - 👨‍💻 More at [https://www.linkedin.com/in/dhesh/)
 
-<!--
+
 
 <br><br>
 
@@ -35,7 +35,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
--->
+
 
 <br><br>
 
@@ -52,7 +52,3 @@
  <img align="center" src="https://img.shields.io/badge/-dhesh_bjj-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
